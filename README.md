@@ -23,6 +23,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ashiq-c-07aa48186/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" style="border-radius:50%;" width="40" height="40"/></a>
   <a href="https://www.instagram.com/ashiq.c_/" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" style="border-radius:50%;" width="40" height="40"/></a>
-  <a href="https://twitter.com/aashiqc" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" style="border-radius:50%;" width="40" height="40"/></a>
+  <a href="https://twitter.com/imashiqc" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter" style="border-radius:50%;" width="40" height="40"/></a>
 </p>
 
