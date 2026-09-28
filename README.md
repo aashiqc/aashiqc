@@ -1,43 +1,111 @@
-# Ashiq C
+<h1 align="center">Ashiq C</h1>
 
-Software engineer based in Kerala, India. I build full stack products, mobile apps and the AI tooling that ties them together.
+<p align="center"><b>Full stack products. Mobile apps. AI tooling.</b><br />A little corner of the internet where I build things that people can use.</p>
 
-[Portfolio](https://www.ashiq.dev/) · [Projects](https://www.ashiq.dev/projects) · [Services](https://www.ashiq.dev/services) · [Contact](https://www.ashiq.dev/contact)
+<p align="center">
+  <a href="#on-my-desk"><img src="https://img.shields.io/badge/01_ON_MY_DESK-171923?style=for-the-badge" alt="On my desk" /></a>
+  <a href="#selected-work"><img src="https://img.shields.io/badge/02_SELECTED_WORK-171923?style=for-the-badge" alt="Selected work" /></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/03_TOOLBOX-171923?style=for-the-badge" alt="Toolbox" /></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/04_ACTIVITY-171923?style=for-the-badge" alt="Activity" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/05_CONNECT-171923?style=for-the-badge" alt="Connect" /></a>
+</p>
 
-## What I work on
+<p align="center">
+  <a href="https://www.ashiq.dev/"><img src="https://img.shields.io/badge/EXPLORE_ASHIQ.DEV-9F8CFF?style=for-the-badge&logo=googlechrome&logoColor=171923" alt="Explore my portfolio" /></a>
+  <a href="https://www.ashiq.dev/contact"><img src="https://img.shields.io/badge/OPEN_FOR_PROJECTS-7EE2B8?style=for-the-badge&logo=maildotru&logoColor=171923" alt="Open for projects — get in touch" /></a>
+</p>
 
-- **Mobile commerce at Appmaker** — React Native apps for retail and consumer brands, covering enterprise integrations, architecture and releases.
-- **Mobile app development** — Android and iOS apps with React Native, Flutter or native technologies, chosen around the product.
-- **Websites and custom software** — full stack web products with React, TypeScript, Node.js, Cloudflare Workers and Supabase.
-- **AI tooling** — MCP servers, Claude skills and LLM workflow automation that connect assistants to real systems.
+<a id="on-my-desk"></a>
+## On my desk
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://www.ashiq.dev/icons/soft-objects/mobile-v1.webp" width="64" alt="Mobile apps" />
+<h3>Apps that leave the prototype</h3>
+<p>React Native developer at <b>Appmaker</b>, working on mobile commerce, enterprise integrations, architecture and releases.</p>
+<p>For client projects: <b>React Native, Flutter or native Android/iOS</b>, chosen around the product.</p>
+<a href="https://www.ashiq.dev/services/mobile-app-development">Explore mobile development ↗</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://www.ashiq.dev/icons/soft-objects/services-v1.webp" width="64" alt="Web products" />
+<h3>From interface to infrastructure</h3>
+<p>Websites and full stack products with <b>React, TypeScript, React Router, Node.js, Cloudflare Workers and Supabase</b>.</p>
+<p>Also building <b>MCP servers, Claude skills and LLM workflows</b> that connect assistants to real tools.</p>
+<a href="https://www.ashiq.dev/services">Explore services ↗</a>
+</td>
+</tr>
+</table>
+
+<a id="selected-work"></a>
 ## Selected work
 
-- **[sahityotsav.live](https://sahityotsav.live)** — a multi-tenant festival results platform with shareable posters rendered in the browser. [Case study](https://www.ashiq.dev/work/sahityotsav) · [Repository](https://github.com/aashiqc/sahitya-poster)
-- **[Portfolio OS](https://www.ashiq.dev/)** — my portfolio as a desktop-style interface, with draggable windows, a command palette and a playable 3D sandbox. [Case study](https://www.ashiq.dev/work/portfolio-os)
-- **Sincere Academic Foundation** — donation and fund collection apps for a nonprofit, with a shared backend, payments and WhatsApp-based sign-in.
-- **Multhaqa** — a community memorial and prayer app for Malayalam-speaking users, published on Google Play.
-- **[sahityaApp](https://github.com/aashiqc/sahityaApp)** — program management with participants, evaluation and marks, built with Next.js and MySQL.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.ashiq.dev/work/sahityotsav"><img src="https://www.ashiq.dev/icons/soft-objects/festival-v1.webp" width="64" alt="sahityotsav.live case study" /></a>
+<h3>sahityotsav.live</h3>
+<p>Festival results, multi-tenant data and shareable posters rendered directly in the browser.</p>
+<p><code>React Router</code> <code>Cloudflare Workers</code> <code>Supabase</code></p>
+<p><a href="https://www.ashiq.dev/work/sahityotsav">Read the case study ↗</a> · <a href="https://github.com/aashiqc/sahitya-poster">Source</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.ashiq.dev/work/portfolio-os"><img src="https://www.ashiq.dev/icons/soft-objects/monitor-v1.webp" width="64" alt="Portfolio OS case study" /></a>
+<h3>Portfolio OS</h3>
+<p>A desktop-style portfolio with draggable windows, a command palette and a playable 3D sandbox.</p>
+<p><code>React Router</code> <code>TypeScript</code> <code>Three.js</code></p>
+<p><a href="https://www.ashiq.dev/work/portfolio-os">Read the case study ↗</a> · <a href="https://www.ashiq.dev/">Open the desktop</a></p>
+</td>
+</tr>
+</table>
 
-More on [ashiq.dev/projects](https://www.ashiq.dev/projects).
+<details>
+<summary><b>＋ More from the workbench</b></summary>
 
-## Tech stack
+- **[Sincere Academic Foundation](https://www.ashiq.dev/projects)** — donation and fund collection apps with a shared backend, payments and WhatsApp-based sign-in.
+- **[Multhaqa](https://www.ashiq.dev/projects)** — a community memorial and prayer app for Malayalam-speaking users, published on Google Play.
+- **[sahityaApp](https://github.com/aashiqc/sahityaApp)** — program management, participants, evaluation and marks, built with Next.js and MySQL.
+- **[All projects](https://www.ashiq.dev/projects)** — more of what I’ve been building.
 
-- **Mobile:** React Native, Flutter, native Android and iOS, Expo
-- **Frontend:** React, TypeScript, React Router, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Cloudflare Workers, Supabase, REST and GraphQL APIs
-- **Databases:** PostgreSQL (Supabase), Cloudflare D1, MySQL, MongoDB
-- **AI tooling:** MCP, Claude skills, LLM workflow automation
-- **Integrations:** Shopify, Razorpay, Cashfree, WhatsApp Business API, Firebase
+</details>
 
-## Work with me
+<a id="toolbox"></a>
+## Toolbox
 
-I’m available for mobile app, website and custom software projects, in Kerala and remotely worldwide.
+<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,nodejs,express,cloudflare,supabase,mongodb,mysql,git,docker,figma&perline=8&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Flutter, Dart, Node.js, Express, Cloudflare, Supabase, MongoDB, MySQL, Git, Docker and Figma" /></p>
 
-- [Mobile app development](https://www.ashiq.dev/services/mobile-app-development)
-- [Website design and development](https://www.ashiq.dev/services/web-development)
-- [Custom software](https://www.ashiq.dev/services/custom-software)
+**Mobile** · React Native · Flutter · native Android & iOS  
+**Web & backend** · React · React Router · Next.js · Node.js · APIs & integrations  
+**AI tooling** · MCP · Claude skills · LLM workflow automation
 
-Email [hello@ashiq.dev](mailto:hello@ashiq.dev) or use the [contact page](https://www.ashiq.dev/contact).
+<a id="activity"></a>
+## Activity
 
-[LinkedIn](https://www.linkedin.com/in/ashiq-c-07aa48186/) · [X](https://x.com/imashiqc) · [Instagram](https://www.instagram.com/_ashiq_c/)
+<a href="https://github.com/aashiqc?tab=overview"><img src="https://ghchart.rshah.org/a78bfa/aashiqc" alt="Ashiq C’s GitHub contribution calendar" width="900" /></a>
+
+<p align="center">
+  <a href="https://github.com/aashiqc?tab=overview"><img src="https://streak-stats.demolab.com/?user=aashiqc&theme=github-dark-blue&hide_border=true&ring=A78BFA&fire=7EE2B8&currStreakLabel=A78BFA" alt="GitHub contribution totals, current streak and longest streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aashiqc?tab=overview">Contribution timeline</a> ·
+  <a href="https://github.com/aashiqc/sahitya-poster/commits/main/">sahitya-poster commit history</a> ·
+  <a href="https://github.com/aashiqc?tab=repositories">Browse repositories</a>
+</p>
+
+<a id="connect"></a>
+## Have something in mind?
+
+<p>Available for <a href="https://www.ashiq.dev/services/mobile-app-development"><b>mobile apps</b></a>, <a href="https://www.ashiq.dev/services/web-development"><b>websites</b></a> and <a href="https://www.ashiq.dev/services/custom-software"><b>custom software</b></a> with clients worldwide. Tell me what you’re building.</p>
+
+<p>
+  <a href="https://www.ashiq.dev/contact"><img src="https://img.shields.io/badge/LET'S_TALK-9F8CFF?style=for-the-badge&logo=googlechrome&logoColor=171923" alt="Start a project" /></a>
+  <a href="mailto:hello@ashiq.dev"><img src="https://img.shields.io/badge/hello%40ashiq.dev-171923?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email hello@ashiq.dev" /></a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/ashiq-c-07aa48186/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/imashiqc"><img src="https://img.shields.io/badge/%40imashiqc-171923?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X: @imashiqc" /></a>&nbsp;
+  <a href="https://www.instagram.com/_ashiq_c/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="36" height="36" alt="Instagram: @_ashiq_c" /></a>
+</p>
+
+<p align="center"><sub>Built with care. Best explored with curiosity. · <a href="https://www.ashiq.dev/">ashiq.dev</a></sub></p>
