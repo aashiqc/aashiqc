@@ -3,71 +3,15 @@
 <p align="center"><b>Full stack products. Mobile apps. AI tooling.</b><br />A little corner of the internet where I build things that people can use.</p>
 
 <p align="center">
-  <a href="#on-my-desk"><img src="https://img.shields.io/badge/01_ON_MY_DESK-171923?style=for-the-badge" alt="On my desk" /></a>
-  <a href="#selected-work"><img src="https://img.shields.io/badge/02_SELECTED_WORK-171923?style=for-the-badge" alt="Selected work" /></a>
-  <a href="#toolbox"><img src="https://img.shields.io/badge/03_TOOLBOX-171923?style=for-the-badge" alt="Toolbox" /></a>
-  <a href="#activity"><img src="https://img.shields.io/badge/04_ACTIVITY-171923?style=for-the-badge" alt="Activity" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/05_CONNECT-171923?style=for-the-badge" alt="Connect" /></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/01_TOOLBOX-171923?style=for-the-badge" alt="Toolbox" /></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/02_ACTIVITY-171923?style=for-the-badge" alt="Activity" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/03_CONNECT-171923?style=for-the-badge" alt="Connect" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.ashiq.dev/"><img src="https://img.shields.io/badge/EXPLORE_ASHIQ.DEV-9F8CFF?style=for-the-badge&logo=googlechrome&logoColor=171923" alt="Explore my portfolio" /></a>
   <a href="https://www.ashiq.dev/contact"><img src="https://img.shields.io/badge/OPEN_FOR_PROJECTS-7EE2B8?style=for-the-badge&logo=maildotru&logoColor=171923" alt="Open for projects — get in touch" /></a>
 </p>
-
-<a id="on-my-desk"></a>
-## On my desk
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://www.ashiq.dev/icons/soft-objects/mobile-v1.webp" width="64" alt="Mobile apps" />
-<h3>Apps that leave the prototype</h3>
-<p>React Native developer at <b>Appmaker</b>, working on mobile commerce, enterprise integrations, architecture and releases.</p>
-<p>For client projects: <b>React Native, Flutter or native Android/iOS</b>, chosen around the product.</p>
-<a href="https://www.ashiq.dev/services/mobile-app-development">Explore mobile development ↗</a>
-</td>
-<td width="50%" valign="top">
-<img src="https://www.ashiq.dev/icons/soft-objects/services-v1.webp" width="64" alt="Web products" />
-<h3>From interface to infrastructure</h3>
-<p>Websites and full stack products with <b>React, TypeScript, React Router, Node.js, Cloudflare Workers and Supabase</b>.</p>
-<p>Also building <b>MCP servers, Claude skills and LLM workflows</b> that connect assistants to real tools.</p>
-<a href="https://www.ashiq.dev/services">Explore services ↗</a>
-</td>
-</tr>
-</table>
-
-<a id="selected-work"></a>
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.ashiq.dev/work/sahityotsav"><img src="https://www.ashiq.dev/icons/soft-objects/festival-v1.webp" width="64" alt="sahityotsav.live case study" /></a>
-<h3>sahityotsav.live</h3>
-<p>Festival results, multi-tenant data and shareable posters rendered directly in the browser.</p>
-<p><code>React Router</code> <code>Cloudflare Workers</code> <code>Supabase</code></p>
-<p><a href="https://www.ashiq.dev/work/sahityotsav">Read the case study ↗</a> · <a href="https://github.com/aashiqc/sahitya-poster">Source</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.ashiq.dev/work/portfolio-os"><img src="https://www.ashiq.dev/icons/soft-objects/monitor-v1.webp" width="64" alt="Portfolio OS case study" /></a>
-<h3>Portfolio OS</h3>
-<p>A desktop-style portfolio with draggable windows, a command palette and a playable 3D sandbox.</p>
-<p><code>React Router</code> <code>TypeScript</code> <code>Three.js</code></p>
-<p><a href="https://www.ashiq.dev/work/portfolio-os">Read the case study ↗</a> · <a href="https://www.ashiq.dev/">Open the desktop</a></p>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>＋ More from the workbench</b></summary>
-
-- **[Sincere Academic Foundation](https://www.ashiq.dev/projects)** — donation and fund collection apps with a shared backend, payments and WhatsApp-based sign-in.
-- **[Multhaqa](https://www.ashiq.dev/projects)** — a community memorial and prayer app for Malayalam-speaking users, published on Google Play.
-- **[sahityaApp](https://github.com/aashiqc/sahityaApp)** — program management, participants, evaluation and marks, built with Next.js and MySQL.
-- **[All projects](https://www.ashiq.dev/projects)** — more of what I’ve been building.
-
-</details>
 
 <a id="toolbox"></a>
 ## Toolbox
